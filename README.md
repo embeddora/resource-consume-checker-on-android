@@ -1,0 +1,1 @@
+# Ein erstes Commit eines Dienstprogramms zur Automatisierung der Ressourcenüberprüfung von Android-Geräten mithilfe des Linux-Systemmonitor-Dienstprogramms (An initial commit of an utility to automate Android device resource consumption check by means of Linux' System Monitor utility.)
